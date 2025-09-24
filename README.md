@@ -1,7 +1,7 @@
 # Task-tracker
 
 A simple console-based task management app, inspired by Jira workflows.  
-This project was built as a personal learning exercise to practice Python basics and understand task management logic, which is useful for a IT Comptor role.  
+This project was built as a personal learning exercise to practice Python basics and understand task management logic, which is useful for a IT Comtor role.  
 
 ---
 
